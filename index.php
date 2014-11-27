@@ -6,4 +6,7 @@
  * Time: 9:54 AM
  */
 echo "HELLO";
+//http://twiki.org/cgi-bin/view/Blog/BlogEntry201310x2
+echo "";
+echo "";
 ?>
